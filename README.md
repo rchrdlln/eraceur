@@ -11,7 +11,7 @@
 
 ### Equipment
 
-+ Pages of text (from [Eraceur Pages, Set One](https://www.github.com/rchrdlln/eraceur/Eraceur_Pages_Set_One.pdf), or of your choosing)
++ Pages of text (from [Eraceur Pages, Set One](https://www.github.com/rchrdlln/blob/master/eraceur/Eraceur_Pages_Set_One.pdf), or of your choosing)
 + 1 pen of different color for each player
 + score sheet
 + Timer (for Speed Eraceur)
