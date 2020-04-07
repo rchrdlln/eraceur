@@ -53,11 +53,11 @@ In the event of questions about whether a sentence is grammatical, whether it is
 
 ### Slam Round
 
-If three or more players have completed at least three rounds, the game ends in a slam round, in which each player rearranges two or more of the sentences they previously created into a poem, which they are encouraged to perform. Players may change or add line breaks, punctuation, etc as necessary.
+If three or more players have completed at least three rounds, the players may elect to end the game with a slam round in which each player rearranges two or more of the sentences they previously created into a poem, which they are encouraged to perform. Players may change or add line breaks, punctuation, etc as necessary.
 
 Each player's poem is scored on a ten-point scale, Olympic-style, by the judges (the other players). Players are encouraged to create their own scoring systems using standards of evaluation such as: brevity, profundity, humor, and formal skill (is the poem a haiku? Does it rhyme?) The judges' scores are added together to obtain the player's slam round score.   
 
-The player with the highest slam round score is the winner and receives 250 additional points to be added to their overall total.
+The winner of the slam round adds two rounds to their overall point total. Thus, if the slam round is Round 10, and after 9 rounds, Player A has won 2 rounds, Player B 3 rounds, and Player C 4 rounds, if Player A wins the slam round, Player A's final total will be 4 points, tying Player C for first place. 
 
 Two-player games may conduct a slam round, but, unless the players swear to each other a solemn oath to value poetry and its art and craft more highly than the selfish desire to win games and thus to reject any temptation to select their own poem for any untoward end, two-player slam rounds should remain unscored.   
 
@@ -89,7 +89,7 @@ Each player's score per round equals two (2) times the number of words plus the 
 
 ### End of the Game
 
-+ Long Version: Each page is scored as a separate round. The first player to win four rounds wins the game.
++ Long Version: Each page is scored as a separate round. The first player to win a set number of rounds wins the game. The default is four.
 
 + Short Version: Pages are scored cumulatively. The first player to reach 154 points wins. 
 
