@@ -11,7 +11,7 @@
 
 ### Equipment
 
-+ Pages of text (from Eraceur Pages, Set One, or of your choosing)
++ Pages of text (from [title]Eraceur Pages, Set One(https://www.github.com/rchrdlln/eraceur/Eraceur_Pages_Set_One.pdf), or of your choosing)
 + 1 pen of different color for each player
 + score sheet
 + Timer (for Speed Eraceur)
@@ -84,6 +84,8 @@ Two-player games may conduct a slam round, but, unless the players swear to each
 
 Each player's score per round equals two (2) times the number of words plus the total number of letters in their words. 
 
+![scoring example demonstrating that the phrase "the quick brown fox jumps over the lazy dog," with 9 words and 36 letters, is worth 54 points](Eraceur_Scoring_Calc.png)
+
 
 ### End of the Game
 
@@ -95,6 +97,8 @@ Each player's score per round equals two (2) times the number of words plus the 
 ## Gameplay and Scoring Example
 
 In the accompanying image ("The most delicate test objects...") Player 1 uses a yellow highlighter. Player 2 uses a black pen. 
+
+![scoring example for one round of game with two players](Eraceur_Scoring_Sample.jpg)
 
 **Player 1**
 
